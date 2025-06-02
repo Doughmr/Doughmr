@@ -1,16 +1,121 @@
-## Hi there 👋
+# 👩🏻‍💻 Douglas Moreira Rodrigues
 
-<!--
-**Doughmr/Doughmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Data Analyst`**
 
-Here are some ideas to get you started:
+Me chamo Douglas Moreira Rodrigues, tenho 26 anos e sou natural de Valença, Rio de Janeiro. Possuo Bacharel em Sistemas de Informações UNIFOA e Sou apaixonado por tecnologia !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="MySQL" 
+  title="MySQL" 
+  width="30px" 
+  style="padding-right:10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Power BI" 
+  title="Power BI" 
+  width="30px" 
+  style="padding-right:10px;" 
+  src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
+/>
+<img 
+  align="left" 
+  alt="Excel" 
+  title="Excel" 
+  width="30px" 
+  style="padding-right:10px;" 
+  src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" 
+/>
+
+<img 
+  align="left" 
+  alt="VS Code" 
+  title="VS Code" 
+  width="30px" 
+  style="padding-right:10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="GitHub" 
+  title="GitHub" 
+  width="30px" 
+  style="padding-right:10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+
+<img 
+  align="left" 
+  alt="NumPy" 
+  title="NumPy" 
+  width="30px" 
+  style="padding-right:10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="AWS" 
+  title="AWS" 
+  width="30px" 
+  style="padding-right:10px;" 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+/>
+
+<img 
+  align="left" 
+  alt="Pandas" 
+  title="Pandas" 
+  width="30px" 
+  style="padding-right:10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
+/>
+
+<br/>
+<br/>
+
+---
+
+## 📊 Meus Projetos
+
+| Projeto | Tecnologias | Link |
+|--------|-------------|------|
+| Dashboard de Vendas | Power BI, DAX, Excel | [Ver repositório](https://github.com/seu-usuario/dashboard-vendas) |
+| Análise de Dados IBGE | Python, Pandas, SQL | [Ver repositório](https://github.com/seu-usuario/analise-dados-ibge) |
+| Automação de Relatórios | Python, openpyxl | Em breve |
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-Douglas%20Moreira-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-moreira-r/)  
+📧 douglasmoreira1228@gmail.com
+📱 +55 (24) 988339301
+---
+
+⭐ Obrigado por visitar meu perfil!
