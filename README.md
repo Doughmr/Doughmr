@@ -105,8 +105,8 @@ Me chamo Douglas Moreira Rodrigues, tenho 26 anos e sou natural de Valença, Rio
 
 | Projeto | Tecnologias | Link |
 |--------|-------------|------|
-| Dashboard de Vendas | Power BI, DAX, Excel | [Ver repositório](https://github.com/seu-usuario/dashboard-vendas) |
-| Análise de Dados IBGE | Python, Pandas, SQL | [Ver repositório](https://github.com/seu-usuario/analise-dados-ibge) |
+| Dashboard de Vendas | Power BI, DAX, Excel | [Ver repositório](https://github.com/Doughmr/Dashboard-de-vendas) |
+| Análise de RH | Python, Pandas, SQL | [Ver repositório](https://github.com/Doughmr/Analise-de-dados-RH) |
 | Automação de Relatórios | Python, openpyxl | Em breve |
 
 ---
